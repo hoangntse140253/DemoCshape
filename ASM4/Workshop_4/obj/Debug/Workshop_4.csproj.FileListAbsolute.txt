@@ -1,0 +1,13 @@
+F:\PRN292_CODE\Workshop_4\Workshop_4\obj\Debug\Workshop_4.csprojAssemblyReference.cache
+F:\PRN292_CODE\Workshop_4\Workshop_4\obj\Debug\Workshop_4.frmLogin.resources
+F:\PRN292_CODE\Workshop_4\Workshop_4\obj\Debug\Workshop_4.Properties.Resources.resources
+F:\PRN292_CODE\Workshop_4\Workshop_4\obj\Debug\Workshop_4.csproj.GenerateResource.cache
+F:\PRN292_CODE\Workshop_4\Workshop_4\obj\Debug\Workshop_4.csproj.CoreCompileInputs.cache
+F:\PRN292_CODE\Workshop_4\Workshop_4\bin\Debug\Workshop_4.exe.config
+F:\PRN292_CODE\Workshop_4\Workshop_4\bin\Debug\Workshop_4.exe
+F:\PRN292_CODE\Workshop_4\Workshop_4\bin\Debug\Workshop_4.pdb
+F:\PRN292_CODE\Workshop_4\Workshop_4\obj\Debug\Workshop_4.exe
+F:\PRN292_CODE\Workshop_4\Workshop_4\obj\Debug\Workshop_4.pdb
+F:\PRN292_CODE\Workshop_4\Workshop_4\obj\Debug\Workshop_4.frmChangeAccount.resources
+F:\PRN292_CODE\Workshop_4\Workshop_4\obj\Debug\Workshop_4.frmMaintainBooks.resources
+F:\PRN292_CODE\Workshop_4\Workshop_4\obj\Debug\Workshop_4.frmBookReport.resources

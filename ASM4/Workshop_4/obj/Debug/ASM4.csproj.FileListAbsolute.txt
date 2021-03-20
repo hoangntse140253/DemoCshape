@@ -1,0 +1,13 @@
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\bin\Debug\Workshop_4.exe.config
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\bin\Debug\Workshop_4.exe
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\bin\Debug\Workshop_4.pdb
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\obj\Debug\ASM4.csprojAssemblyReference.cache
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\obj\Debug\Workshop_4.frmBookReport.resources
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\obj\Debug\Workshop_4.frmChangeAccount.resources
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\obj\Debug\Workshop_4.frmLogin.resources
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\obj\Debug\Workshop_4.frmMaintainBooks.resources
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\obj\Debug\Workshop_4.Properties.Resources.resources
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\obj\Debug\ASM4.csproj.GenerateResource.cache
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\obj\Debug\ASM4.csproj.CoreCompileInputs.cache
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\obj\Debug\Workshop_4.exe
+E:\LEARN\PRN292\Assignment\Assignment 4\ASM4\Workshop_4\obj\Debug\Workshop_4.pdb
